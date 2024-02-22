@@ -6,7 +6,7 @@ App.use(Cors());
 
 const Piada = require("./routes/Piadas.js");
 
-App.get("/", (req, res) => {
+App.get("/piadas", (req, res) => {
     const formatar =JSON.stringify( Piada.Piadas(),null,2);
 
     res.setHeader("Content-Type", "application/json");
