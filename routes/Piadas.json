@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "piada": "todos os sprays para matar insetos são feitos de peido de Chuck Norris"
+    },
+    {
+        "id": 2,
+        "piada": "O que a Lua disse ao Sol?",
+        "pergunta": "Nossa, você é tão grande e ainda não te deixam sair à noite!"
+    },
+    {
+        "id": 3,
+        "pergunta": "Por que o livro de matemática ficou tão triste?",
+        "resposta": "Porque ele tinha muitos problemas!"
+    },
+    {
+        "id": 4,
+        "pergunta": "O que o pato disse para a pata quando eles foram nadar?",
+        "resposta": "Vamos, não seja tão pata!"
+    },
+    {
+        "id": 5,
+        "pergunta": "Qual é o doce que anda e fala?",
+        "resposta": "O marshmallow, porque ele é macio e fofinho!"
+    },
+    {
+        "id": 6,
+        "pergunta": "Por que o pombo não consegue entregar cartas no inverno?",
+        "resposta": "Porque ele está CONGELADO no tempo!"
+    },
+    {
+        "id": 7,
+        "pergunta": "O que o sushi disse para o abacate?",
+        "resposta": "Você guacamole o meu mundo!"
+    },
+    {
+        "id": 8,
+        "pergunta": "Por que o livro de história estava sempre nervoso?",
+        "resposta": "Porque ele tinha muitas páginas do passado para virar!"
+    },
+    {
+        "id": 9,
+        "pergunta": "O que o feijão disse para o arroz?",
+        "resposta": "Juntos somos um prato cheio!"
+    },
+    {
+        "id": 10,
+        "pergunta": "Por que o elefante não usa computador?",
+        "resposta": "Porque ele tem medo do mouse!"
+    },
+    {
+        "id": 11,
+        "pergunta": "Qual é o lugar onde todos os lápis se encontram",
+        "resposta": "Na ponta!"
+    },
+    {
+        "id": 12,
+        "pergunta": "Por que o cachorro não entende de computadores?",
+        "resposta": "Porque ele prefere o sistema oss-operacional!"
+    },
+    {
+        "id": 14,
+        "pergunta": "O que o tomate foi fazer no banco? ",
+        "resposta": "Tirar extrato!"
+    },
+    {
+        "id": 14,
+        "pergunta": "Por que o mar estava tão confiante?",
+        "resposta": "Porque ele sabia que ia marear bem!"
+    },
+    {
+        "id": 15,
+        "pergunta": "O que é um pontinho amarelo no alto de um prédio?",
+        "resposta": "Uma janela com catarro!"
+    },
+    {
+        "id": 16,
+        "pergunta": "Por que o celular foi preso?",
+        "resposta": "Porque ele deu um sinal vermelho!"
+    },
+    {
+        "id": 17,
+        "pergunta": "Por que o pintinho não empresta dinheiro?",
+        "resposta": "Porque ele só tem CASCOS!"
+    },
+    {
+        "id": 18,
+        "pergunta": "Qual é o doce mais lento?",
+        "resposta": "O zumbi-açúcar!"
+    },
+    {
+        "id": 19,
+        "pergunta": "Por que o esqueleto não foi ao baile?",
+        "resposta": "Porque ele não tinha coragem de sair!"
+    },
+    {
+        "id": 20,
+        "pergunta": "O que é uma cama?",
+        "resposta": "Uma rede elétrica que passou no vestibular!"
+    }
+]
